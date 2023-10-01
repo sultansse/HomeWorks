@@ -2,4 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!--  Text Colors  -->
+    <color name="text_purple01">#E6DAFF</color>
+    <color name="text_purple02">#D9C8FF</color>
+    <color name="text_purple03">#A680FA</color>
+
+    <!--  Background Colors  -->
+    <color name="background_purple01">#33284E</color>
+    <color name="background_purple02">#1A132B</color>
 </resources>

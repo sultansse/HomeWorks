@@ -2,4 +2,18 @@
     <string name="app_name">HomeWorks</string>
     <string name="hello_application">Hello Application!</string>
     <string name="hello_i_am_jack">hello my name is Jack Dangerous!</string>
+    <string name="my_vehicle">My vehicle</string>
+    <string name="main_car_title">Audi e-tron Sportback</string>
+    <string name="battery">battery</string>
+    <string name="speed">speed</string>
+    <string name="charge_percentage">35$</string>
+    <string name="maximal_speed">262</string>
+    <string name="kilometre_left">kilometre left</string>
+    <string name="charged_subtitle">Charged</string>
+    <string name="nearby_chargers">Nearby Chargers</string>
+    <string name="chargers_subtitle">Netherlands, Amsterdam, other countries</string>
+    <string name="chargepoint_station">ChargePoint Station 1</string>
+    <string name="address_street">Street Pulo, 1</string>
+    <string name="address_country">Amsterdam, Netherlands</string>
+    <string name="available_ports_number">Available ports: 2</string>
 </resources>
